@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Troque SEU-DOMINIO-AQUI pelo domínio final antes de publicar este sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://SEU-DOMINIO-AQUI/</loc></url>
+  <url><loc>https://SEU-DOMINIO-AQUI/projects.html</loc></url>
+  <url><loc>https://SEU-DOMINIO-AQUI/experiments.html</loc></url>
+  <url><loc>https://SEU-DOMINIO-AQUI/logs.html</loc></url>
+  <url><loc>https://SEU-DOMINIO-AQUI/open-code.html</loc></url>
+  <url><loc>https://SEU-DOMINIO-AQUI/about.html</loc></url>
+</urlset>
